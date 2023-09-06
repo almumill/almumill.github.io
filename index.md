@@ -9,4 +9,4 @@ Charles Dickens\*, Connor Pryor\*, Eriq Augustine, Alex Miller, and Lise Getoor.
 Alex Miller, Naum Markenzon, Varun Embar, and Lise Getoor. [Collective Bio-Entity Recognition in Scientific Documents using Hinge-Loss Markov Random Fields. International Workshop on Mining and Learning with Graphs (MLG). 2020.](https://linqs.org/assets/resources/miller-mlg20.pdf)
 
 ## Contact
-You can reach me via email at: miller [ DOT ] alex7 [AT] gmail [DOT] com.
+You can reach me via email at: miller [ DOT ] alex7 [ AT ] gmail [ DOT ] com.
